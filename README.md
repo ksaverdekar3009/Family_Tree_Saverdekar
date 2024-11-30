@@ -10,7 +10,7 @@ Displays family members in a tree format using nested lists.
 Shows relationships between ancestors and descendants across multiple generations.
 
 Interactive Elements:
-Includes links (<a> tags) for each family member, making it possible to expand or modify functionality for further details (e.g., personal profiles, photos, or events).
+Includes links for each family member, making it possible to expand or modify functionality for further details (e.g., personal profiles, photos, or events).
 
 Simple Yet Organized Design:
 A clean and straightforward design that is visually appealing and easy to navigate.
