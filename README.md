@@ -6,7 +6,7 @@ The Saverdekar Family Tree project is a detailed and interactive HTML-based repr
 
 Key Features:
 Hierarchical Structure:
-Displays family members in a tree format using nested lists ('<ul> and <li>').
+Displays family members in a tree format using nested lists.
 Shows relationships between ancestors and descendants across multiple generations.
 
 Interactive Elements:
